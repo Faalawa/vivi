@@ -1,0 +1,28 @@
+.App-header {
+    background-color: black;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .image {
+    width:800px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    margin-left: 325px;
+  }
+
+  p {
+    text-shadow: 5px;
+    font-weight: normal;
+    text-shadow: #e0e010aa;
+    text-align: center;
+  }
